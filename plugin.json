@@ -1,0 +1,16 @@
+{
+  "name": "gemini-skills",
+  "displayName": "Gemini Engineering Skills",
+  "version": "1.0.0",
+  "description": "Engineering discipline skills for Gemini CLI, Gemini Web/Gems, and Antigravity: technical writing, research design and reports, PDF typesetting, FPGA/ASIC design, and Verilog/SystemVerilog coding.",
+  "author": {
+    "name": "IllyaGolub0",
+    "url": "https://github.com/IllyaGolub0"
+  },
+  "repository": "https://github.com/IllyaGolub0/gemini-skills",
+  "suggestedPrompts": [
+    "Review my technical document against engineering documentation standards",
+    "Write synthesisable SystemVerilog RTL and SDC timing constraints for an FPGA module",
+    "Draft a research design document with refutable hypotheses and an evaluation protocol"
+  ]
+}
